@@ -9,4 +9,3 @@ Hyper parameters may be limited
 Changes for future reference
 - Add preprocessing steps
 - Use cross-validation scoring on the final tuned model or average results over multiple splits
-- open to suggestions
